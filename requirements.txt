@@ -1,0 +1,6 @@
+panel>=1.4
+akshare>=1.14
+pandas>=2.0
+openai>=1.0
+# pandas.DataFrame.to_markdown() requires tabulate
+tabulate>=0.9
